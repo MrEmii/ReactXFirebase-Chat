@@ -1,0 +1,9 @@
+.profilepic{
+    width: 32px;
+    border-radius: 18px;
+    transform: translateY(-2px)
+}
+
+.profilename{
+    margin-left: 5px;
+}
