@@ -7,6 +7,7 @@ Is a simple boilerplate based on chat. With react, firebase and bootstrap.
 
 # Index
 [How to user](#how-to-use)
+
 [Api's and dependencies](#Apis-and-Dependencies-used)
 
 ### How to use#
@@ -29,6 +30,7 @@ Then open [http://localhost:3000/](http://localhost:3000/) to see your app. The 
 [Firebase Api](https://www.npmjs.com/package/firebase)
 
 [Reactstrap](https://reactstrap.github.io/)
+
 [Reactstrap GitHub](https://github.com/reactstrap/reactstrap)
 
 
